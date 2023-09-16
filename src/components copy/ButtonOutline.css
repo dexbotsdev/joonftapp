@@ -1,0 +1,35 @@
+.layer-3-icon {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0%;
+  right: 0%;
+  bottom: 0%;
+  left: 0%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.go-to-market {
+  position: absolute;
+  top: 23.58%;
+  left: 20.87%;
+  line-height: 150%;
+}
+.layer-3-parent {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0%;
+  right: 0%;
+  bottom: 0%;
+  left: 0%;
+}
+.buttonoutline {
+  width: 234.98px;
+  height: 63.6px;
+  text-align: left;
+  font-size: 22px;
+  color: #fff;
+  font-family: "Chakra Petch";
+}

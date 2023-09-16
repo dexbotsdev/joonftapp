@@ -1,0 +1,131 @@
+.buttonfilled-parent {
+  position: absolute;
+  top: 25.75rem;
+  left: 0rem;
+  width: 28.56rem;
+  height: 3.98rem;
+}
+.creating-and-selling {
+  position: absolute;
+  width: 53.03%;
+  top: 55.3%;
+  left: 0.16%;
+  line-height: 150%;
+  display: inline-block;
+  opacity: 0.7;
+}
+.nft3 {
+  background: linear-gradient(194.66deg, #ce13ff, #7000ff);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.span {
+  background: linear-gradient(224.85deg, #ce13ff, #7000ff);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.nft-sell-it-container {
+  position: absolute;
+  width: 100%;
+  top: 7%;
+  left: 0%;
+  line-height: 130%;
+  display: inline-block;
+}
+.frame-child52 {
+  position: absolute;
+  height: 52.38%;
+  width: 6.77%;
+  top: 17.71%;
+  right: -1.98%;
+  bottom: 29.91%;
+  left: 95.21%;
+  border-radius: 0.71px;
+  background: linear-gradient(224.85deg, #ce13ff, #7000ff);
+  transform: rotate(45deg);
+  transform-origin: 0 0;
+}
+.frame-child53 {
+  position: absolute;
+  height: 58.02%;
+  width: 7.93%;
+  top: 0%;
+  right: 39.51%;
+  bottom: 41.98%;
+  left: 52.56%;
+  border-radius: 1px;
+  background: linear-gradient(224.85deg, #ce13ff, #7000ff);
+  transform: rotate(45deg);
+  transform-origin: 0 0;
+}
+.frame-child54 {
+  position: absolute;
+  height: 61.05%;
+  width: 94.97%;
+  top: 38.95%;
+  right: 0%;
+  bottom: 0%;
+  left: 5.03%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.frame-child55 {
+  position: absolute;
+  height: 63.65%;
+  width: 7.16%;
+  top: 0%;
+  right: 87.78%;
+  bottom: 36.35%;
+  left: 5.06%;
+  border-radius: 0.71px;
+  background: linear-gradient(224.85deg, #ce13ff, #7000ff);
+  transform: rotate(45deg);
+  transform-origin: 0 0;
+}
+.frame28 {
+  position: absolute;
+  top: 0.19rem;
+  left: 0rem;
+  width: 7.99rem;
+  height: 0.9rem;
+  overflow: hidden;
+}
+.frame27 {
+  position: absolute;
+  top: 0rem;
+  left: 0rem;
+  width: 7.99rem;
+  height: 1.09rem;
+  overflow: hidden;
+}
+.rectangle-parent2 {
+  position: absolute;
+  top: 0rem;
+  left: 0rem;
+  width: 8.44rem;
+  height: 1.09rem;
+}
+.frame26 {
+  position: absolute;
+  top: 0rem;
+  left: 0.19rem;
+  width: 79.13rem;
+  height: 15.19rem;
+  overflow: hidden;
+  font-size: 5.44rem;
+  font-family: "Chakra Petch";
+}
+.hero {
+  position: relative;
+  margin: 0 !important;
+  top: 16.56rem;
+  left: 8.56rem;
+  width: 79.31rem;
+  height: 29.73rem;
+  z-index: 31;
+  text-align: left;
+  font-size: 0.75rem;
+  color: #fff;
+  font-family: Inter;
+}

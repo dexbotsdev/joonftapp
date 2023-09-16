@@ -1,0 +1,116 @@
+.frame-child17 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0%;
+  right: 0%;
+  bottom: 0%;
+  left: 0%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.frame-child18 {
+  position: absolute;
+  height: 58.02%;
+  width: 7.93%;
+  top: 0%;
+  right: 39.54%;
+  bottom: 41.98%;
+  left: 52.53%;
+  border-radius: 1.08px;
+  background: linear-gradient(224.85deg, #ce13ff, #7000ff);
+  transform: rotate(45deg);
+  transform-origin: 0 0;
+}
+.frame-child19 {
+  position: absolute;
+  height: 61.05%;
+  width: 94.97%;
+  top: 38.95%;
+  right: 0%;
+  bottom: 0%;
+  left: 5.03%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.frame-child20 {
+  position: absolute;
+  height: 63.65%;
+  width: 7.16%;
+  top: 0%;
+  right: 87.78%;
+  bottom: 36.35%;
+  left: 5.06%;
+  border-radius: 1.08px;
+  background: linear-gradient(224.85deg, #ce13ff, #7000ff);
+  transform: rotate(45deg);
+  transform-origin: 0 0;
+}
+.frame6 {
+  position: absolute;
+  top: 0.29rem;
+  left: 0rem;
+  width: 12.03rem;
+  height: 1.35rem;
+  overflow: hidden;
+}
+.rectangle-group {
+  position: absolute;
+  top: 0rem;
+  left: 0rem;
+  width: 12.03rem;
+  height: 1.64rem;
+}
+.frame-child21 {
+  position: absolute;
+  height: 52.39%;
+  width: 6.77%;
+  top: 17.71%;
+  right: -1.98%;
+  bottom: 29.91%;
+  left: 95.21%;
+  border-radius: 1.08px;
+  background: linear-gradient(224.85deg, #ce13ff, #7000ff);
+  transform: rotate(45deg);
+  transform-origin: 0 0;
+}
+.frame-parent6 {
+  position: absolute;
+  top: 14.14rem;
+  left: 2.47rem;
+  width: 12.71rem;
+  height: 1.64rem;
+}
+.image-114-icon {
+  position: absolute;
+  height: 43.48%;
+  width: 43.01%;
+  top: 14.67%;
+  right: 28.49%;
+  bottom: 41.85%;
+  left: 28.49%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.metamask {
+  position: absolute;
+  top: 62.85%;
+  left: 28.97%;
+  line-height: 150%;
+  font-weight: 600;
+}
+.vector-group {
+  position: absolute;
+  top: 0rem;
+  left: 0rem;
+  width: 17.65rem;
+  height: 17.46rem;
+  text-align: center;
+  font-size: 1.38rem;
+  color: #fff;
+  font-family: "Open Sans";
+}

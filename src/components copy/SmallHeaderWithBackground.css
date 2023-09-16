@@ -1,0 +1,97 @@
+.alliances {
+  background: linear-gradient(147.74deg, #ce13ff, #7000ff);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.partnerships-associations-container {
+  position: absolute;
+  top: 0%;
+  left: 11.59%;
+  line-height: 150%;
+  font-weight: 600;
+}
+.frame-child27 {
+  position: absolute;
+  height: 61.05%;
+  width: 99.72%;
+  top: 38.95%;
+  right: 0%;
+  bottom: 0%;
+  left: 0.28%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.frame-child28 {
+  position: absolute;
+  height: 63.65%;
+  width: 1.18%;
+  top: 0%;
+  right: 97.98%;
+  bottom: 36.35%;
+  left: 0.84%;
+  border-radius: 1px;
+  background: linear-gradient(224.85deg, #ce13ff, #7000ff);
+  transform: rotate(45deg);
+  transform-origin: 0 0;
+}
+.frame8 {
+  position: absolute;
+  top: 0.27rem;
+  left: 0rem;
+  width: 67.59rem;
+  height: 1.26rem;
+  overflow: hidden;
+}
+.frame-child29 {
+  position: absolute;
+  height: 57.07%;
+  width: 2.37%;
+  top: 19.29%;
+  right: -0.69%;
+  bottom: 23.64%;
+  left: 98.32%;
+  border-radius: 1px;
+  background: linear-gradient(224.85deg, #ce13ff, #7000ff);
+  transform: rotate(45deg);
+  transform-origin: 0 0;
+}
+.frame-child30 {
+  position: absolute;
+  height: 63.21%;
+  width: 2.63%;
+  top: 0%;
+  right: 95.52%;
+  bottom: 36.79%;
+  left: 1.86%;
+  border-radius: 1px;
+  background: linear-gradient(224.85deg, #ce13ff, #7000ff);
+  transform: rotate(45deg);
+  transform-origin: 0 0;
+}
+.frame9 {
+  position: absolute;
+  top: 0rem;
+  left: 34.19rem;
+  width: 33.76rem;
+  height: 1.4rem;
+  overflow: hidden;
+}
+.frame-parent8 {
+  position: absolute;
+  top: 5.56rem;
+  left: 0rem;
+  width: 67.94rem;
+  height: 1.53rem;
+}
+.smallheaderwithbackground {
+  position: relative;
+  margin: 0 !important;
+  width: 67.94rem;
+  height: 7.09rem;
+  z-index: 26;
+  text-align: center;
+  font-size: 2.88rem;
+  color: #fff;
+  font-family: "Chakra Petch";
+}

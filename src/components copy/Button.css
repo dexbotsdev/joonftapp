@@ -1,0 +1,35 @@
+.vector-icon {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 3.17%;
+  right: -2.45%;
+  bottom: -3.17%;
+  left: 2.45%;
+  border-radius: 12.36px;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.create {
+  position: absolute;
+  width: 42.22%;
+  top: 20%;
+  left: 28.89%;
+  line-height: 150%;
+  font-weight: 600;
+  display: inline-block;
+}
+.button {
+  position: absolute;
+  margin: 0 !important;
+  top: 6.88rem;
+  left: 77.81rem;
+  width: 8.44rem;
+  height: 2.81rem;
+  z-index: 7;
+  text-align: center;
+  font-size: 1.13rem;
+  color: #fff;
+  font-family: "Chakra Petch";
+}

@@ -1,0 +1,90 @@
+.nfts {
+  background: linear-gradient(202.97deg, #ce13ff, #7000ff);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.latest-added-nfts-container {
+  position: absolute;
+  top: 0%;
+  left: 6.61%;
+  line-height: 150%;
+}
+.frame22 {
+  position: absolute;
+  top: 0rem;
+  left: 20.32rem;
+  width: 27.31rem;
+  height: 4.31rem;
+  overflow: hidden;
+}
+.frame-child40 {
+  position: absolute;
+  height: 55.48%;
+  width: 99.21%;
+  top: 49.76%;
+  right: 0.52%;
+  bottom: -5.24%;
+  left: 0.28%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.frame-child41 {
+  position: absolute;
+  height: 52.38%;
+  width: 1.18%;
+  top: 17.71%;
+  right: 97.99%;
+  bottom: 29.92%;
+  left: 0.83%;
+  border-radius: 1px;
+  background: linear-gradient(224.85deg, #ce13ff, #7000ff);
+  transform: rotate(45deg);
+  transform-origin: 0 0;
+}
+.frame-child42 {
+  position: absolute;
+  height: 58.02%;
+  width: 1.31%;
+  top: 0%;
+  right: 47.46%;
+  bottom: 41.98%;
+  left: 51.24%;
+  border-radius: 1px;
+  background: linear-gradient(224.85deg, #ce13ff, #7000ff);
+  transform: rotate(45deg);
+  transform-origin: 0 0;
+}
+.frame-child43 {
+  position: absolute;
+  height: 52.38%;
+  width: 1.18%;
+  top: 17.71%;
+  right: -0.35%;
+  bottom: 29.91%;
+  left: 99.17%;
+  border-radius: 1px;
+  background: linear-gradient(224.85deg, #ce13ff, #7000ff);
+  transform: rotate(45deg);
+  transform-origin: 0 0;
+}
+.vector-parent2 {
+  position: absolute;
+  top: 5.56rem;
+  left: 0rem;
+  width: 67.94rem;
+  height: 1.53rem;
+}
+.borderedheader {
+  position: absolute;
+  margin: 0 !important;
+  top: 71.94rem;
+  left: 13.44rem;
+  width: 67.94rem;
+  height: 7.09rem;
+  z-index: 29;
+  text-align: left;
+  font-size: 2.88rem;
+  color: #fff;
+  font-family: "Chakra Petch";
+}

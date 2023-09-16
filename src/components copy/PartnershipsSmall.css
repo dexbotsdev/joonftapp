@@ -1,0 +1,123 @@
+.frame-child22 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0%;
+  right: 0%;
+  bottom: 0%;
+  left: 0%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.frame-child23 {
+  position: absolute;
+  height: 58.02%;
+  width: 7.93%;
+  top: 0%;
+  right: 39.54%;
+  bottom: 41.98%;
+  left: 52.53%;
+  border-radius: 1.08px;
+  background: linear-gradient(224.85deg, #ce13ff, #7000ff);
+  transform: rotate(45deg);
+  transform-origin: 0 0;
+}
+.frame-child24 {
+  position: absolute;
+  height: 61.05%;
+  width: 94.97%;
+  top: 38.95%;
+  right: 0%;
+  bottom: 0%;
+  left: 5.03%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.frame-child25 {
+  position: absolute;
+  height: 63.65%;
+  width: 7.16%;
+  top: 0%;
+  right: 87.78%;
+  bottom: 36.35%;
+  left: 5.06%;
+  border-radius: 1.08px;
+  background: linear-gradient(224.85deg, #ce13ff, #7000ff);
+  transform: rotate(45deg);
+  transform-origin: 0 0;
+}
+.frame7 {
+  position: absolute;
+  top: 0.29rem;
+  left: 0rem;
+  width: 12.03rem;
+  height: 1.35rem;
+  overflow: hidden;
+}
+.rectangle-container {
+  position: absolute;
+  top: 0rem;
+  left: 0rem;
+  width: 12.03rem;
+  height: 1.64rem;
+}
+.frame-child26 {
+  position: absolute;
+  height: 52.38%;
+  width: 6.77%;
+  top: 17.71%;
+  right: -1.98%;
+  bottom: 29.91%;
+  left: 95.21%;
+  border-radius: 1.08px;
+  background: linear-gradient(224.85deg, #ce13ff, #7000ff);
+  transform: rotate(45deg);
+  transform-origin: 0 0;
+}
+.frame-parent7 {
+  position: absolute;
+  top: 14.14rem;
+  left: 2.47rem;
+  width: 12.71rem;
+  height: 1.64rem;
+}
+.image-114-icon1 {
+  position: absolute;
+  height: 42.96%;
+  width: 42.5%;
+  top: 15.04%;
+  right: 28.77%;
+  bottom: 42%;
+  left: 28.73%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.binance-bsc {
+  position: absolute;
+  top: 62.85%;
+  left: 26.77%;
+  line-height: 150%;
+  font-weight: 600;
+}
+.vector-container {
+  position: absolute;
+  top: 0rem;
+  left: 20.52rem;
+  width: 17.65rem;
+  height: 17.46rem;
+}
+.partnershipssmall {
+  position: relative;
+  margin: 25px !important;
+  width: 79.21rem;
+  height: 17.46rem;
+  z-index: 25;
+  text-align: center;
+  font-size: 1.38rem;
+  color: #fff;
+  font-family: "Open Sans";
+}

@@ -1,0 +1,239 @@
+.frame-child {
+  position: absolute;
+  margin: 0 !important;
+  top: 319.69rem;
+  left: 1.06rem;
+  border-radius: 50%;
+  background-color: #952ee1;
+  filter: blur(331.32px);
+  width: 92.25rem;
+  height: 9rem;
+  opacity: 0.54;
+  z-index: 0;
+}
+.frame-item {
+  position: absolute;
+  margin: 0 !important;
+  top: 236.87rem;
+  left: 2.91rem;
+  width: 133.28rem;
+  height: 133.28rem;
+  z-index: 1;
+}
+.frame-inner {
+  position: absolute;
+  margin: 0 !important;
+  top: 97.19rem;
+  left: 61.31rem;
+  border-radius: 50%;
+  background-color: #952ee1;
+  filter: blur(800px);
+  width: 31.31rem;
+  height: 31.5rem;
+  z-index: 2;
+}
+.ellipse-div {
+  position: absolute;
+  margin: 0 !important;
+  top: 257.5rem;
+  left: 0rem;
+  border-radius: 50%;
+  background-color: #952ee1;
+  filter: blur(800px);
+  width: 30.5rem;
+  height: 31.5rem;
+  z-index: 3;
+}
+.logo-laqira-layer-01png-icon {
+  position: absolute;
+  margin: 0 !important;
+  height: calc(100% - 5481px);
+  width: calc(100% - 1415px);
+  top: 61.56rem;
+  right: 7.06rem;
+  bottom: 281rem;
+  left: 81.38rem;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+  z-index: 4;
+}
+.div {
+  margin: 0 !important;
+  position: absolute;
+  top: 0rem;
+  left: calc(50% - 756px);
+  width: 94.5rem;
+  height: 59.13rem;
+  background-image: url("/public/div@3x.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  z-index: 5;
+}
+.rectangle-div {
+  position: absolute;
+  margin: 0 !important;
+  top: 5.88rem;
+  left: 7.25rem;
+  border-radius: 10px;
+  background-color: rgba(255, 255, 255, 0.1);
+  backdrop-filter: blur(4.5px);
+  width: 79.13rem;
+  height: 4.84rem;
+  z-index: 6;
+}
+.minting {
+  position: relative;
+  line-height: 150%;
+}
+.minting-parent {
+  margin: 0 !important;
+  position: absolute;
+  top: 7.56rem;
+  left: 46.38rem;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 2.5rem;
+  z-index: 8;
+}
+.character-laqirapng-icon {
+  position: absolute;
+  margin: 0 !important;
+  top: calc(50% - 2622px);
+  left: calc(50% - 527px);
+  width: 76.56rem;
+  height: 48.06rem;
+  object-fit: cover;
+  z-index: 9;
+}
+.line-div {
+  position: absolute;
+  margin: 0 !important;
+  top: 10.75rem;
+  left: 8.75rem;
+  width: 79.13rem;
+  height: 0rem;
+  z-index: 10;
+}
+.logo-laqira-layer-01png-icon1 {
+  position: absolute;
+  margin: 0 !important;
+  height: calc(100% - 5365px);
+  width: calc(100% - 1311px);
+  top: 48.56rem;
+  right: 69.31rem;
+  bottom: 286.75rem;
+  left: 12.63rem;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+  opacity: 0.1;
+  z-index: 11;
+}
+.logo-laqira-layer-01png-icon2 {
+  position: absolute;
+  margin: 0 !important;
+  height: calc(100% - 5280px);
+  width: calc(100% - 1235px);
+  top: 150.81rem;
+  right: 1.44rem;
+  bottom: 179.19rem;
+  left: 75.75rem;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+  opacity: 0.1;
+  z-index: 12;
+}
+.logo-laqira-layer-01png-icon3 {
+  position: absolute;
+  margin: 0 !important;
+  height: calc(100% - 5302px);
+  width: calc(100% - 1255px);
+  top: 267.75rem;
+  right: 73.13rem;
+  bottom: 63.63rem;
+  left: 5.31rem;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+  opacity: 0.1;
+  z-index: 13;
+}
+.logo-laqira-layer-01png-icon4 {
+  position: absolute;
+  margin: 0 !important;
+  height: calc(100% - 5353px);
+  width: calc(100% - 1299px);
+  top: 40.44rem;
+  right: 47.69rem;
+  bottom: 294.13rem;
+  left: 33.5rem;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+  opacity: 0.07;
+  z-index: 14;
+}
+.frame-child1 {
+  position: absolute;
+  margin: 0 !important;
+  top: 56.56rem;
+  left: 0.25rem;
+  border-radius: 50%;
+  background-color: #952ee1;
+  filter: blur(800px);
+  width: 31.31rem;
+  height: 31.5rem;
+  z-index: 19;
+}
+.logo-laqira-layer-01png-icon5 {
+  position: absolute;
+  margin: 0 !important;
+  height: calc(100% - 5548px);
+  width: calc(100% - 1475px);
+  top: 88.19rem;
+  right: 79.06rem;
+  bottom: 258.56rem;
+  left: 13.13rem;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+  z-index: 22;
+}
+.image-107-icon {
+  position: absolute;
+  margin: 0 !important;
+  top: 97.94rem;
+  left: 46.38rem;
+  width: 11.88rem;
+  height: 14.31rem;
+  object-fit: cover;
+  z-index: 23;
+}
+.ellipse-parent {
+  position: relative;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 0.63rem;
+  background-image: url("/public/frame-2@3x.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  text-align: left;
+  font-size: 1rem;
+  color: #fff;
+  font-family: "Open Sans";
+}
